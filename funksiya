@@ -1,0 +1,10 @@
+# def digitCountSum(number):
+#     return len(str(number))
+#     count=0
+#     yigindi=0
+#     while (number>0):
+#         count+=1
+#         yigindi+=number%10
+#         number=number//10
+#     result=f'count-{count},sum-{yigindi}'
+#     return result
